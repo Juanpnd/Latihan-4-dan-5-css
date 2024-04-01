@@ -1,0 +1,12 @@
+td {
+    height: 50px;
+    border: 1px dashed blue;
+}
+
+tr {
+    background-color: #FFCCCB;
+}
+table {
+    border-collapse: collapse;
+    border: 1px solid black;
+}
